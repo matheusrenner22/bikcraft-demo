@@ -9,8 +9,8 @@
 body {
   display: grid;
   gap: 60px;
-  justify-items: center;
   background: #f7f7f7;
+  justify-items: center;
 }
 
 p {
@@ -24,8 +24,8 @@ header {
 
 header nav {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
+  flex-wrap: wrap;
   margin-top: 60px;
   gap: 20px;
   text-transform: uppercase;
