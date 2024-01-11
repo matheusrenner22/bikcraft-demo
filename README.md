@@ -8,3 +8,5 @@ This project is a demo of the actual project I'm doing based on the course of th
 
 ## More details
 Using the [VisBug tool](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) that gives you the possibility to see more carefully in addition to the devtools, the measurements of each container and element on the page.
+
+[Click for view the page](https://matheusrenner22.github.io/bikcraft-demo/)
